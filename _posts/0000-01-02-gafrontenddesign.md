@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Adding new information to line 5!
 Use the left arrow to go back!
